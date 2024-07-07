@@ -9,3 +9,8 @@ This repository has the exercises from the nptel course conducted by Prof. Parth
 - The C Programming Language (Ansi C Version) by Brian W. Kernighan and Dennis M. Ritchie, 1990
 - The C Programming Language by Brian W. Kernighan and Dennis M. Ritchie, 2015  
 - C++ reference (C++98 and C++03). http://en.cppreference.com/w/ 
+
+# How to run
+
+- It is ctrl + shift + B 
+- It is not ctrl + alt + B 
