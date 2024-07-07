@@ -17,6 +17,9 @@ int main()
   cout << "a = " << a << ", b = " << b << "." << endl;
   cout << "&a = " << &a << ", &b = " << &b << "." << endl;
 
+  // The following code will cause an error
+  // int &i = 5;
+  // int &j = a + b;
   const int &i = 5;
   const int &j = a + b;
   cout << "i = " << i << ", &i = " << &i << "." << endl;
