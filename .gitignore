@@ -14,3 +14,5 @@ MultipleInheritance/diamondProblem
 Exceptions2/errorHandlingDynamics
 STL1/find
 STL1/usingTemplate
+STL2/findWithPredicate1
+STL2/findWithPredicate2
