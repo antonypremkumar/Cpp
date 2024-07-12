@@ -19,3 +19,7 @@ STL2/findWithPredicate2
 STL3/copy
 ModernC++1/auto
 ModernC++1/trailingReturnType
+SmartPointers2/uniquePtr
+SmartPointers2/sharedPtr
+SmartPointers2/weakPtr
+SmartPointers2/binaryTree
