@@ -26,3 +26,7 @@ SmartPointers2/uniquePtr
 SmartPointers2/sharedPtr
 SmartPointers2/weakPtr
 SmartPointers2/binaryTree
+Concurrency1/threads
+Concurrency1/threadWithParameters
+Concurrency1/threadWithOutput
+Concurrency1/multipleThreads
