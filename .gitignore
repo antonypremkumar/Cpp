@@ -2,6 +2,8 @@
 RecapC1/literals
 RecapC1/helloWorld
 RecapC1/controlConstructs
+RecapC2/functionPointer
+RecapC2/pointerArrayDuality
 IOAndLoop/helloWorld
 ReferenceAndPointers/behaviourOfAReference
 ReferenceAndPointers/callByReference
@@ -30,3 +32,11 @@ Concurrency1/threads
 Concurrency1/threadWithParameters
 Concurrency1/threadWithOutput
 Concurrency1/multipleThreads
+Concurrency1/bind1
+Concurrency1/bind2
+Concurrency1/raceCondition1
+Concurrency1/raceCondition2
+Concurrency1/raceCondition3
+Concurrency1/raceCondition4
+Concurrency1/mutex
+Concurrency1/atomic
