@@ -2,8 +2,11 @@
 RecapC1/literals
 RecapC1/helloWorld
 RecapC1/controlConstructs
-RecapC2/functionPointer
+RecapC2/pointer
 RecapC2/pointerArrayDuality
+RecapC2/mallocFree
+RecapC2/pointerToAStructure
+RecapC2/functionPointer
 IOAndLoop/helloWorld
 ReferenceAndPointers/behaviourOfAReference
 ReferenceAndPointers/callByReference
