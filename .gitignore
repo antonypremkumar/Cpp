@@ -15,6 +15,7 @@ RecapC2/Output.dat
 RecapC2/readWrite
 RecapC2/readWriteString
 RecapC2/functionPointer
+CourseOverview/compilerVersion
 IOAndLoop/helloWorld
 ReferenceAndPointers/behaviourOfAReference
 ReferenceAndPointers/callByReference
