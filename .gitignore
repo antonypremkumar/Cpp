@@ -23,6 +23,10 @@ IOAndLoop/sumOfN
 IOAndLoop/bool
 IOAndLoop/bool1
 IOAndLoop/bool2
+ArraysStrings/fixedSizeArray
+ArraysStrings/fixedLargeArray
+ArraysStrings/dynamicArray
+ArraysStrings/concatination
 ReferenceAndPointers/behaviourOfAReference
 ReferenceAndPointers/callByReference
 ClassesAndObjects/classes
