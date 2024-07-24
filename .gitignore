@@ -6,6 +6,14 @@ RecapC2/pointer
 RecapC2/pointerArrayDuality
 RecapC2/mallocFree
 RecapC2/pointerToAStructure
+RecapC2/callByValue
+RecapC2/callByReference
+RecapC2/recursion
+RecapC2/inputOutput
+RecapC2/Input.dat
+RecapC2/Output.dat
+RecapC2/readWrite
+RecapC2/readWriteString
 RecapC2/functionPointer
 IOAndLoop/helloWorld
 ReferenceAndPointers/behaviourOfAReference
