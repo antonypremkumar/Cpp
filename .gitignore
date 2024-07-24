@@ -17,6 +17,12 @@ RecapC2/readWriteString
 RecapC2/functionPointer
 CourseOverview/compilerVersion
 IOAndLoop/helloWorld
+IOAndLoop/addNum
+IOAndLoop/sqrt
+IOAndLoop/sumOfN
+IOAndLoop/bool
+IOAndLoop/bool1
+IOAndLoop/bool2
 ReferenceAndPointers/behaviourOfAReference
 ReferenceAndPointers/callByReference
 ClassesAndObjects/classes
