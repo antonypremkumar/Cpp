@@ -34,6 +34,10 @@ SortingSearching/replace
 SortingSearching/rotate
 StackAndCommonDataStructures/reverse
 StackAndCommonDataStructures/postfix
+ConstantsAndInlineFunctions/manifestConstant
+ConstantsAndInlineFunctions/const
+ConstantsAndInlineFunctions/macros
+ConstantsAndInlineFunctions/inline
 ReferenceAndPointers/behaviourOfAReference
 ReferenceAndPointers/callByReference
 ClassesAndObjects/classes
