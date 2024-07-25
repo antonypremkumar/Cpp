@@ -27,6 +27,8 @@ ArraysStrings/fixedSizeArray
 ArraysStrings/fixedLargeArray
 ArraysStrings/dynamicArray
 ArraysStrings/concatination
+SortingSearching/bubbleSort
+SortingSearching/quickSort
 ReferenceAndPointers/behaviourOfAReference
 ReferenceAndPointers/callByReference
 ClassesAndObjects/classes
