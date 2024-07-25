@@ -32,6 +32,8 @@ SortingSearching/quickSort
 SortingSearching/binarySearch
 SortingSearching/replace
 SortingSearching/rotate
+StackAndCommonDataStructures/reverse
+StackAndCommonDataStructures/postfix
 ReferenceAndPointers/behaviourOfAReference
 ReferenceAndPointers/callByReference
 ClassesAndObjects/classes
