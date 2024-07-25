@@ -29,6 +29,9 @@ ArraysStrings/dynamicArray
 ArraysStrings/concatination
 SortingSearching/bubbleSort
 SortingSearching/quickSort
+SortingSearching/binarySearch
+SortingSearching/replace
+SortingSearching/rotate
 ReferenceAndPointers/behaviourOfAReference
 ReferenceAndPointers/callByReference
 ClassesAndObjects/classes
