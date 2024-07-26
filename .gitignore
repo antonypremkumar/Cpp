@@ -40,6 +40,10 @@ ConstantsAndInlineFunctions/macros
 ConstantsAndInlineFunctions/inline
 ReferenceAndPointers/behaviourOfAReference
 ReferenceAndPointers/callByReference
+ReferenceAndPointers/pitfalls
+ReferenceAndPointers/swap
+ReferenceAndPointers/returnByReference
+ReferenceAndPointers/returnByReferenceTricky
 ClassesAndObjects/classes
 ClassesAndObjects/rectangle
 ClassesAndObjects/stacks
